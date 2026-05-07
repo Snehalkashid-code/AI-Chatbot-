@@ -31,7 +31,7 @@ python --version
 
 **Step 2 — Clone this repository**
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Snehalkashid-code/AI-Chatbot-.git
 ```
 
 **Step 3 — Run the chatbot**
